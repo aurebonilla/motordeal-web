@@ -60,7 +60,7 @@ Sigue estos pasos para poner en marcha el proyecto en tu entorno local:
    npm run dev
    ```
 
-   La aplicación estará disponible en [http://localhost:3000](http://localhost:3000).
+   La aplicación estará disponible en [http://localhost:5174](http://localhost:5174).
 
 
 ## Contacto
